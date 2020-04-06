@@ -1,0 +1,1 @@
+{"type":"approuter.nodejs","builders":{"default":"sap.nodejs","configs":{}},"runners":{"configs":{}},"attributes":{},"description":"manish-test-approuter","mixinTypes":["mtamodule"]}
